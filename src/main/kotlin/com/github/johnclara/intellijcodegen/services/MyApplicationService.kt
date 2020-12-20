@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.johnclara.intellijcodegen.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.johnclara.intellijcodegen.MyBundle
 
 class MyApplicationService {
 
